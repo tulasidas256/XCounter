@@ -1,0 +1,13 @@
+
+cd ~/workspace/tulasidasnayak68-ME_FE_BUILDOUT_XCOUNTER
+
+git add .
+
+git commit -m "ME_FE_BUILDOUT_XCOUNTER_MODULE_ONE"
+
+git push -u origin master
+
+
+# Ensure you have no pending commits
+
+git status
